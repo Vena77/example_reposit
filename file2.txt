@@ -1,0 +1,10 @@
+Petrov 15000
+Sidorov 10000
+Viktuk 100000
+Sacurov 75000
+Vasnesov 50000
+Fomenko 12000
+Fedorov 7500
+Naumenko 30000
+Krasavin 8500
+Davidov 16000
